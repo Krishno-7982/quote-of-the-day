@@ -41,7 +41,7 @@ Follow these steps to run the project on your local machine:
 1. Clone the repository:
 
    
-   git clone <>
+   git clone https://github.com/Krishno-7982/quote-of-the-day
    
 
 2. Navigate to the project directory:
